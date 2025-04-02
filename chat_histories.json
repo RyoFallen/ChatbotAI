@@ -1,0 +1,56 @@
+{
+    "Fallen": [
+        {
+            "timestamp": 1743578818.4115222,
+            "sender": "Fallen",
+            "message": "Hi"
+        },
+        {
+            "timestamp": 1743578818.4124184,
+            "sender": "Chatbot",
+            "message": "Hi there! How can I help you today?"
+        },
+        {
+            "timestamp": 1743578825.064614,
+            "sender": "Fallen",
+            "message": "I have a problem with my network"
+        },
+        {
+            "timestamp": 1743578825.0656981,
+            "sender": "Chatbot",
+            "message": "For network issues, please try restarting your router and check your cable connections. If the problem persists, contact your network administrator."
+        },
+        {
+            "timestamp": 1743578829.671221,
+            "sender": "Fallen",
+            "message": "thanks"
+        },
+        {
+            "timestamp": 1743578829.6735563,
+            "sender": "Chatbot",
+            "message": "You're welcome! I'm here if you need anything else."
+        }
+    ],
+    "sahranaz": [
+        {
+            "timestamp": 1743579177.1844828,
+            "sender": "sahranaz",
+            "message": "hi"
+        },
+        {
+            "timestamp": 1743579177.185588,
+            "sender": "Chatbot",
+            "message": "Hi there! How can I help you today?"
+        },
+        {
+            "timestamp": 1743579181.4517493,
+            "sender": "sahranaz",
+            "message": "internet"
+        },
+        {
+            "timestamp": 1743579181.452904,
+            "sender": "Chatbot",
+            "message": "I'm sorry, I don't have an answer for that right now. Could you please provide more details or ask about network, software, or system issues?"
+        }
+    ]
+}

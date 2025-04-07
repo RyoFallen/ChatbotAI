@@ -29,6 +29,34 @@
             "timestamp": 1743578829.6735563,
             "sender": "Chatbot",
             "message": "You're welcome! I'm here if you need anything else."
+        },
+        {
+            "timestamp": 1743586291.3397398,
+            "role": "user",
+            "parts": [
+                "efe day\u0131ma selam yolla"
+            ]
+        },
+        {
+            "timestamp": 1743586292.2603886,
+            "role": "model",
+            "parts": [
+                "I'm sorry, I don't understand.  My purpose is to help with IT-related issues.  Could you please rephrase your request in terms of a computer problem or software question?\n"
+            ]
+        },
+        {
+            "timestamp": 1743586987.0104494,
+            "role": "user",
+            "parts": [
+                "no problem mate"
+            ]
+        },
+        {
+            "timestamp": 1743586987.9038973,
+            "role": "model",
+            "parts": [
+                "Great!  Is there anything I can help you with today then?  Let me know if you're having any trouble with your computer, network, or other technology.\n"
+            ]
         }
     ],
     "sahranaz": [
@@ -51,6 +79,164 @@
             "timestamp": 1743579181.452904,
             "sender": "Chatbot",
             "message": "I'm sorry, I don't have an answer for that right now. Could you please provide more details or ask about network, software, or system issues?"
+        },
+        {
+            "timestamp": 1743585922.5904717,
+            "role": "user",
+            "parts": [
+                "selam"
+            ]
+        },
+        {
+            "timestamp": 1743585923.381206,
+            "role": "model",
+            "parts": [
+                "Merhaba!  How can I help you today?\n"
+            ]
+        },
+        {
+            "timestamp": 1743585945.1188211,
+            "role": "user",
+            "parts": [
+                "internetle alakal\u0131 bir problem var"
+            ]
+        },
+        {
+            "timestamp": 1743585946.4058018,
+            "role": "model",
+            "parts": [
+                "Anl\u0131yorum, internet ba\u011flant\u0131n\u0131zla ilgili bir sorun ya\u015f\u0131yorsunuz.  Sorunun detaylar\u0131n\u0131 biraz daha anlatabilir misiniz?  \u00d6rne\u011fin:\n\n* **Hangi t\u00fcr internet ba\u011flant\u0131n\u0131z var?** (Wi-Fi, Ethernet kablosu, mobil veri)\n* **Ba\u011flant\u0131 tamamen kopuk mu, yoksa yava\u015f m\u0131?**\n* **Ba\u015fka cihazlar internet ba\u011flant\u0131s\u0131na eri\u015febiliyor mu?**\n* **Sorun ne zamandan beri devam ediyor?**\n* **Daha \u00f6nce bu sorunu ya\u015fad\u0131n\u0131z m\u0131?**\n\nBu bilgiler bana sorunu daha iyi anlaman\u0131za ve size yard\u0131mc\u0131 olmama olanak tan\u0131r.\n"
+            ]
+        },
+        {
+            "timestamp": 1743585958.6443813,
+            "role": "user",
+            "parts": [
+                "ingilizce yan\u0131t ver"
+            ]
+        },
+        {
+            "timestamp": 1743585959.8723383,
+            "role": "model",
+            "parts": [
+                "Okay, I understand you're having an internet problem. To help me understand the issue better, could you please tell me more about it?  For example:\n\n* **What type of internet connection do you have?** (Wi-Fi, Ethernet cable, mobile data)\n* **Is your connection completely down, or is it just slow?**\n* **Can other devices access the internet?**\n* **How long has this problem been going on?**\n* **Have you experienced this problem before?**\n\nThis information will help me diagnose the problem and assist you more effectively.\n"
+            ]
+        }
+    ],
+    "fallen2": [
+        {
+            "timestamp": 1743583006.7432492,
+            "role": "user",
+            "parts": [
+                "Hi"
+            ]
+        },
+        {
+            "timestamp": 1743583200.4152453,
+            "role": "user",
+            "parts": [
+                "Hey"
+            ]
+        },
+        {
+            "timestamp": 1743583908.1245348,
+            "role": "user",
+            "parts": [
+                "Hopefully. Hi"
+            ]
+        },
+        {
+            "timestamp": 1743584142.8372035,
+            "role": "user",
+            "parts": [
+                "H'"
+            ]
+        },
+        {
+            "timestamp": 1743584176.1894562,
+            "role": "user",
+            "parts": [
+                "selam"
+            ]
+        },
+        {
+            "timestamp": 1743584463.696189,
+            "role": "user",
+            "parts": [
+                "hey"
+            ]
+        },
+        {
+            "timestamp": 1743585722.6368916,
+            "role": "user",
+            "parts": [
+                "Hello"
+            ]
+        },
+        {
+            "timestamp": 1743585723.4527297,
+            "role": "model",
+            "parts": [
+                "Hi there! I'm Gemini Helpdesk. How can I assist you with your IT issue today?\n"
+            ]
+        },
+        {
+            "timestamp": 1743585744.9216475,
+            "role": "user",
+            "parts": [
+                "I have a problem with my network connection"
+            ]
+        },
+        {
+            "timestamp": 1743585746.265571,
+            "role": "model",
+            "parts": [
+                "Okay, I understand you're having a problem with your network connection.  To help me understand the issue better, could you please tell me:\n\n* **What kind of network are you using?** (e.g., Wi-Fi, Ethernet cable)\n* **What device are you using?** (e.g., laptop, desktop, phone)\n* **What exactly is happening?** (e.g.,  \"I can't connect at all,\" \"My connection is very slow,\" \"I keep getting disconnected,\" \"I have a limited connection\")\n* **Have you tried restarting your device and/or your modem/router?**\n\nThe more information you can give me, the better I can assist you.\n"
+            ]
+        },
+        {
+            "timestamp": 1743585800.8549259,
+            "role": "user",
+            "parts": [
+                "It disconnects all the time"
+            ]
+        },
+        {
+            "timestamp": 1743585802.3843472,
+            "role": "model",
+            "parts": [
+                "\"It disconnects all the time\" is a bit vague.  To help me understand what's disconnecting, could you please tell me:\n\n* **What is disconnecting?**  Is it your Wi-Fi, your internet connection, a specific device (like your phone or computer), or something else?\n* **How often does it disconnect?** (e.g., every few minutes, once a day, randomly)\n* **What happens when it disconnects?** (e.g., you lose internet access, a specific app stops working, you get an error message)\n* **What device are you using?** (e.g., Windows laptop, iPhone, Android phone)\n\nThe more information you can give me, the better I can assist you.\n"
+            ]
+        }
+    ],
+    "burak": [
+        {
+            "timestamp": 1743587020.2734256,
+            "role": "user",
+            "parts": [
+                "Do you know about rtx 4060"
+            ]
+        },
+        {
+            "timestamp": 1743587021.7809546,
+            "role": "model",
+            "parts": [
+                "Yes, I do. The RTX 4060 is a mid-range graphics card from Nvidia's 40-series lineup.  It's designed for 1080p and 1440p gaming, offering a good balance of performance and price.  It uses Nvidia's Ada Lovelace architecture, which brings improvements in ray tracing and DLSS (Deep Learning Super Sampling) performance compared to previous generations.\n\nIs there anything specific you'd like to know about the RTX 4060?  For example, are you interested in its performance in specific games, its power consumption, its price, or compatibility with your system?\n"
+            ]
+        },
+        {
+            "timestamp": 1743587043.0099604,
+            "role": "user",
+            "parts": [
+                "rx 7600 vs rx 4060. which one do you think is better"
+            ]
+        },
+        {
+            "timestamp": 1743587045.9784153,
+            "role": "model",
+            "parts": [
+                "The RX 7600 and RTX 4060 are both good mid-range graphics cards, but the \"better\" one depends on your priorities and budget.  They're fairly close in performance, but with some key differences:\n\n* **Raw Performance:**  In many games, the performance is very close, often within a few frames per second of each other at 1080p and 1440p.  Benchmarks vary depending on the specific game and settings.\n\n* **Ray Tracing:** The RTX 4060 generally has a significant advantage in ray tracing performance thanks to Nvidia's dedicated RT cores.  If ray tracing is important to you, the 4060 is the clear winner.\n\n* **DLSS vs. FSR:** The RTX 4060 supports DLSS (Deep Learning Super Sampling), Nvidia's upscaling technology, which can significantly boost frame rates at higher resolutions. The RX 7600 uses AMD's FSR (FidelityFX Super Resolution), which is also good, but generally not quite as effective as DLSS in most cases.\n\n* **Price:** This fluctuates, so you'll need to check current prices.  Often, one card might be slightly cheaper than the other at any given time.\n\n**In short:**\n\n* **Choose the RTX 4060 if:** Ray tracing is important to you, and you value DLSS.\n* **Choose the RX 7600 if:** You're on a tighter budget and ray tracing isn't a high priority.  You might also prefer it if you have a preference for AMD's ecosystem.\n\nI recommend checking recent benchmark comparisons on sites like Gamers Nexus, Hardware Unboxed, or TechPowerUp to see how they perform in the games *you* play.  This will give you the most accurate comparison for your specific needs.\n"
+            ]
         }
     ]
 }
